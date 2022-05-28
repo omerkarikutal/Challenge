@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#asd
 export $(grep -v '^#' .env | xargs)
 set -x
 

@@ -13,7 +13,7 @@ servers:
     url: https://api.example.com/example
 info:
   title: Agrio Example Service Api
-  description: Agrio Example Services Documentation
+  description: Agrio Example Services Documentation Test
   contact:
     email: admin@sophietech.com
   version: "v1"
